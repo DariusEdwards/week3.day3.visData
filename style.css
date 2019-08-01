@@ -1,0 +1,33 @@
+body{
+    background-color:floralwhite;
+    text-align:center;
+}
+
+#profile_card{
+    text-align:center;
+    background-color:ivory;
+    position: relative;
+    padding: 20px 0;
+    width: 290px;
+    border-radius: 3px;
+    box-shadow: red;
+    overflow: hidden;
+    text-align: center;
+    z-index: 5;
+}
+
+.name{
+    text-align:center;
+}
+
+.info{
+    display:inline;
+}
+
+#div1{
+    background-color: ivory;
+    width: 290px;
+    border: 15px solid: red;
+    padding: 50px;
+    margin: 20px;
+}
